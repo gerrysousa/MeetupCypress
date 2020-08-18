@@ -1,0 +1,14 @@
+{
+  "name": "projetoCypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open":"cypress open",
+    "cyrun":"cypress run",
+    "dash":"cypress run --recorder --key 146d6e20-25c7-49ac-a4da-1d2e937d7b1b"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
